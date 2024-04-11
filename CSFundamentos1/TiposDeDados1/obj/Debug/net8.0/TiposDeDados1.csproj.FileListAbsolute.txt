@@ -1,0 +1,15 @@
+D:\courses\c#\curso-c-essencial-2023-bonus-linq\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\c#\curso-c-essencial-2023-bonus-linq\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.AssemblyInfoInputs.cache
+D:\courses\c#\curso-c-essencial-2023-bonus-linq\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.AssemblyInfo.cs
+D:\courses\c#\curso-c-essencial-2023-bonus-linq\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.csproj.CoreCompileInputs.cache
+D:\courses\c#\curso-c-essencial-2023-bonus-linq\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.sourcelink.json
+D:\courses\c#\curso-c-essencial-2023-bonus-linq\CSFundamentos1\TiposDeDados1\bin\Debug\net8.0\TiposDeDados1.exe
+D:\courses\c#\curso-c-essencial-2023-bonus-linq\CSFundamentos1\TiposDeDados1\bin\Debug\net8.0\TiposDeDados1.deps.json
+D:\courses\c#\curso-c-essencial-2023-bonus-linq\CSFundamentos1\TiposDeDados1\bin\Debug\net8.0\TiposDeDados1.runtimeconfig.json
+D:\courses\c#\curso-c-essencial-2023-bonus-linq\CSFundamentos1\TiposDeDados1\bin\Debug\net8.0\TiposDeDados1.dll
+D:\courses\c#\curso-c-essencial-2023-bonus-linq\CSFundamentos1\TiposDeDados1\bin\Debug\net8.0\TiposDeDados1.pdb
+D:\courses\c#\curso-c-essencial-2023-bonus-linq\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.dll
+D:\courses\c#\curso-c-essencial-2023-bonus-linq\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\refint\TiposDeDados1.dll
+D:\courses\c#\curso-c-essencial-2023-bonus-linq\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.pdb
+D:\courses\c#\curso-c-essencial-2023-bonus-linq\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\TiposDeDados1.genruntimeconfig.cache
+D:\courses\c#\curso-c-essencial-2023-bonus-linq\CSFundamentos1\TiposDeDados1\obj\Debug\net8.0\ref\TiposDeDados1.dll
